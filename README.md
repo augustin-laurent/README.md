@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and Data Engineer
 -------------------------
 
-I've been studying computer science for 5 years, got my Master's Degree in CS specialised in Data & AI, I'm currently working as a Full Stack Developer @ Efor.
+I've been studying computer science for 5 years, got my Master's Degree in CS specialised in Data & AI in September 2024.
 
-* 🌍  I'm based in Strasbourg, France
+* 🌍  I'm based in Toulouse, France
 * 🖥️  See my portfolio at [this adress](http://augustin-laurent.com)
 * ✉️  You can contact me at [augustin.laurent@proton.me](mailto:augustin.laurent@proton.me)
 * 🧠  I'm learning how to master new web framework.
-* 🤝  I'm open to collaborating on Deep Learning, Machine Learning, Web App with new framework and other cool stuff that can make me progress in my career !
+* 🤝  I'm open to collaborate on Deep Learning, Machine Learning, Web App with new framework and other cool stuff that can make me progress in my career !
 
 ### Skills
 
